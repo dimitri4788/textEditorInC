@@ -6,4 +6,4 @@ Description:     A simple text editor in C
 make
 
 #To run
-./textEditor
+./textEditor <a file name>
