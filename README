@@ -1,0 +1,9 @@
+Author:          Deep Aggarwal
+Date Started:    03/09/2015
+Description:     A simple text editor in C
+
+#To compile
+make
+
+#To run
+./textEditor

@@ -1,10 +1,3 @@
-/**
- * Author:          Deep Aggarwal
- * Date Started:    03/09/2015
- *
- * Project:         A simple text editor in C
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
