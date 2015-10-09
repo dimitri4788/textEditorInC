@@ -1,14 +1,18 @@
 Author:          Deep Aggarwal  
 Date Started:    03/09/2015  
-Description:     A simple text editor in C  
+Description:     A simple text editor in C.  
 
-##To compile:
-make
+###To compile
+```sh
+$ make
+```
 
-##To run:
-./textEditor <a file name>
+###To run
+```sh
+$ ./textEditor <a file name>
+```
 
-##Once the program is running, it accepts following user inputs:
+###Once the program is running, it accepts following user inputs
 - p: Print the contents of the file.
 - a 3 I like cats!: Append "I like cats!" to the text at line number 3.
 - w: Write the changes back to the file (overwrites the file if it exists).
