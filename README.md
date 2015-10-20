@@ -24,6 +24,6 @@ Once the program is running, it accepts following user inputs
 
 Author
 ------
-Deep Aggarwal
-deep.uiuc@gmail.com
-Date Started: 03/09/2015
+Deep Aggarwal  
+deep.uiuc@gmail.com  
+Date Started: 03/09/2015  
